@@ -7,7 +7,7 @@ const categories = [
       { name: 'HTML / CSS',   pct: 95, stars: '★★★★★', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
       { name: 'JavaScript',   pct: 90, stars: '★★★★★', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' },
       { name: 'React',        pct: 85, stars: '★★★★☆', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
-      { name: 'Tailwind CSS', pct: 80, stars: '★★★★☆', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' },
+      { name: 'Tailwind CSS', pct: 80, stars: '★★★★☆', icon: 'https://cdn.simpleicons.org/tailwindcss/06B6D4' },
     ],
   },
   {
